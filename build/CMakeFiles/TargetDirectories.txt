@@ -1,0 +1,5 @@
+/home/srj/AI_project/operator_library/build/CMakeFiles/OperatorLibrary.dir
+/home/srj/AI_project/operator_library/build/CMakeFiles/run_tests.dir
+/home/srj/AI_project/operator_library/build/CMakeFiles/test.dir
+/home/srj/AI_project/operator_library/build/CMakeFiles/edit_cache.dir
+/home/srj/AI_project/operator_library/build/CMakeFiles/rebuild_cache.dir

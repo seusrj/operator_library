@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/run_tests.dir/tests/testBasicOperators.cpp.o -o run_tests  -Wl,-rpath,/home/srj/AI_project/operator_library/build libOperatorLibrary.so
